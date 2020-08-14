@@ -1,3 +1,3 @@
 # Dicoding Submission Front End Fundamentals
 
-*** JANGAN DI COPAS, JADIIN REFRENSI ***
+***JANGAN DI COPAS, JADIIN REFRENSI***
