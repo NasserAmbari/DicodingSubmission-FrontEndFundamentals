@@ -1,7 +1,5 @@
 # Dicoding Submission Front End Fundamentals
 
-***JANGAN DI COPAS, JADIIN REFRENSI***
-
 > Jangan Lupa di Install packagenya : 
 ```
 npm install
